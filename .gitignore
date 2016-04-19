@@ -1,0 +1,21 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse Project files
+.classpath
+.project
+.settings/
+
+# Android build
+bin/
+local.properties
+build/
+.gradle
+
+# OS auto gen
+Thumbs.db
+.DS_Store
